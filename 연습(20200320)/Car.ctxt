@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ \uC790\uB3D9\uCC28\ \uD074\uB798\uC2A4\r\n\ \r\n\ @author\ (2018210083)\ \r\n\ @version\ (20200320)\r\n
+comment1.params=
+comment1.target=void\ Drive()
+comment1.text=\r\n\ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ @param\ \ y\ \ \ \uBA54\uC18C\uB4DC\uC758\ \uC608\uC81C\ \uB9E4\uAC1C\uBCC0\uC218\r\n\ @return\ \ \ \ \ x\ \uB354\uD558\uAE30\ y\ \r\n
+numComments=2
