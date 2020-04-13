@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SwitchTest
+comment0.text=\r\n\ Exam(\uC810\uC218\uC640\ \uD559\uB144\uC744\ \uC785\uB825\ \uBC1B\uC544\ 60\uC810\ \uC774\uC0C1\uC774\uBA74\ \uD569\uACA9,\ \uBBF8\uC548\uC774\uBA74\ \uBD88\uD569\uACA9\uC744\ \uCD9C\uB825.\ 4\uD559\uB144\uC758\ \uACBD\uC6B0\ 70\uC810\ \uC774\uC0C1\uC774\uC5B4\uC57C\ \uD569\uACA9)\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
