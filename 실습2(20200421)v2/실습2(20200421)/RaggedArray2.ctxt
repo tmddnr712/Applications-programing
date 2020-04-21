@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RaggedArray2
+comment0.text=\r\n\ RaggedArray\ \uC2E4\uC2B52\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.04.21)\r\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment1.text=\r\n\ \uBC30\uC5F4\ \uC0DD\uC131\r\n\ \r\n
+comment2.params=temp
+comment2.target=int[][]\ initArray(int[][])
+comment2.text=\r\n\ \uBC30\uC5F4\uC744\ \uCD08\uAE30\uD654\r\n\ initArray\uC5D0\ makeArray\uB97C\ \uC804\uB2EC\uD574\uC57C\ \uD558\uB2C8\uAE4C\ \uB370\uC774\uD130\ \uD0C0\uC785\uC740\ init[][]\r\n\ @parameter\ temp\ \uCD08\uAE30\uD654\ \uD558\uB824\uB294\ \uBC30\uC5F4\ \r\n\ @return\ \ \uCD08\uAE30\uD654\uB41C\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\r\n
+comment3.params=array
+comment3.target=void\ printArray(int[][])
+comment4.params=num
+comment4.target=int\ sumArray(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
