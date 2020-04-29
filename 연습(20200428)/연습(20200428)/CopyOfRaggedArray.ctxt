@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CopyOfRaggedArray
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ (2018210083\ \uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.04.28)\r\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment1.text=\r\n\ \uBC30\uC5F4\uC744\ \uC0DD\uC131\r\n\ \r\n\ @return\ \ \ \ \ \ \uC0DD\uC131\uB41C\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\r\n
+comment2.params=temp
+comment2.target=int[][]\ initArray(int[][])
+comment2.text=\r\n\ \uBC30\uC5F4\uC744\ \uCD08\uAE30\uD654\r\n\ \r\n\ @parameter\ temp\ \ \ \ \ \ \uCD08\uAE30\uD654\ \uD558\uB824\uB294\ \uBC30\uC5F4\ \r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \uCD08\uAE30\uD654\uB41C\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\r\n
+comment3.params=array
+comment3.target=void\ printArray(int[][])
+comment3.text=\r\n\ \uBC30\uC5F4\uC744\ \uCD9C\uB825\r\n\ \r\n\ @parameter\ array\ \ \ \ \ \ \uCD9C\uB825\uD558\uB824\uB294\ \uBC30\uC5F4\ \r\n\ \r\n
+comment4.params=array
+comment4.target=int\ sumArray(int[])
+comment5.params=array
+comment5.target=void\ totalSumArray(int[][])
+comment5.text=\r\n\ \r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ \ \ array\ \uCC98\uB9AC\ \uB300\uC0C1\uC774\ \uB418\uB294\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ 1\uAC1C\uC758\ \uD589\uC758\ \uD569\uC744\ \uAD6C\uD558\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @parameter\ array\ \ \ \ \ \uD569\uC744\ \uAD6C\uD558\uB824\uB294\ 1\uCC28\uC6D0\ \uBC30\uC5F4\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \uD569\uACC4\ \uACB0\uACFC\ \uAC12\r\n
+numComments=7
