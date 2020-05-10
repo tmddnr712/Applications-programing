@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\r\n\ \uC608\uC81C\ 2-1\ \uC790\uBC14\uD504\uB85C\uADF8\uB7A8\uC758\ \uAE30\uBCF8\ \uAD6C\uC870\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.10)\r\n
+comment1.params=n\ m
+comment1.target=int\ sum(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
