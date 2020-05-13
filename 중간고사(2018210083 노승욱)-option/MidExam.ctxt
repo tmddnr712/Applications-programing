@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MidExam
+comment0.text=\r\n\ \uAC01\ \uC5F4\uC758\ \uD569\uACFC\ \uD3C9\uADE0\uC744\ \uACC4\uC0B0\uD558\uC5EC\ \uCD9C\uB825\uD558\uB294\ \uD504\uB85C\uADF8\uB7A8\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.13)\r\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment1.text=\r\n\ \uBC30\uC5F4\uC744\ \uC0DD\uC131\r\n\ \r\n\ @return\ \ \ \ \ \ \uC0DD\uC131\uB41C\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\r\n
+comment2.params=raggedArray
+comment2.target=int\ findLongestRowLength(int[][])
+comment2.text=\r\n\ \uC0DD\uC131\uB41C\ \uBC30\uC5F4\uC5D0\uC11C\ \uAC00\uC7A5\ \uAE34\ \uD589\uC758\ \uAE38\uC774\uB97C\ \uAD6C\uD568\r\n\ \r\n\ @parameter\ \ \ raggedArray\ \uC0DD\uC131\uB41C\ \uBC30\uC5F4\r\n\ @return\ \ \ \ \ \ \uAC00\uC7A5\ \uAE34\ \uD589\uC758\ \uAE38\uC774\r\n
+comment3.params=array\ row
+comment3.target=void\ calculateArray(int[][],\ int)
+comment3.text=\r\n\ \uD3C9\uADE0\uAC12\ \uACC4\uC0B0\ &\ \uCD9C\uB825\r\n\ \r\n\ @parameter\ \ \ array,\ row\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
