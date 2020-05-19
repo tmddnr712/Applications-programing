@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ \uC5F0\uC2B5\#1\ "\ Circle\ class"\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.19)\r\n
+comment1.params=color\ name\ r
+comment1.target=Circle(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Circle\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790,\ \uC0DD\uC131\uC790\ \uC774\uB984\uC740\ class\ \uC774\uB984\uACFC\ \uB3D9\uC77C\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ \uC6D0\uC758\ \uBA74\uC801\uC744\ \uACC4\uC0B0\r\n\ \r\n\ @return\ \ \ \ \ \uC6D0\uC758\ \uBA74\uC801\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\r\n\ \uC6D0\uC758\ \uCEEC\uB7EC\uB97C\ \uC54C\uB824\uC8FC\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @return\ \ \ \ \ \uC6D0\uC758\ \uCEEC\uB7EC\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ \uC6D0\uC758\ \uC774\uB984\uC744\ \uC54C\uB824\uC8FC\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @return\ \ \ \ \ \uC6D0\uC758\ \uC774\uB984\ \r\n
+numComments=5
