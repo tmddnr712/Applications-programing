@@ -1,6 +1,6 @@
 #BlueJ class context
-comment0.target=MidExam
-comment0.text=\r\n\ MidExam\ -\ for\ for\ \uC0AC\uC6A9\r\n\ \r\n\ @author\ (\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.15)\r\n
+comment0.target=MidExam2
+comment0.text=\r\n\ MidExam\ -\ for\ while\ \uC0AC\uC6A9\r\n\ \r\n\ @author\ (\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.15)\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=
