@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ \uC5F0\uC2B5\#2\ \:\ \uC0AC\uAC01\uD615\uB4E4\uC758\ \uBA74\uC801\ \uD569\uC744\ \uACC4\uC0B0\uD558\uAE30\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.05.22)\r\n
+comment1.params=width\ height
+comment1.target=Rectangle(double,\ double)
+comment1.text=\r\n\ Rectangle\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ \uC0AC\uAC01\uD615\uC758\ \uBA74\uC801\uC744\ \uAD6C\uD558\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @return\ \ \ \ \ \uC0AC\uAC01\uD615\uC758\ \uBA74\uC801\ \uAC12\r\n
+numComments=3
