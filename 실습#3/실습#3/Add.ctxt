@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Add
+comment0.text=\r\n\ \uC2E4\uC2B5\#3\r\n\ \r\n\ @author\ (2018210083_\uB178\uC2B9\uC6B1)\ \r\n\ @version\ (2020.06.12)\r\n
+comment1.params=
+comment1.target=int\ calculate()
+comment2.params=a\ b
+comment2.target=void\ setValue(int,\ int)
+numComments=3
