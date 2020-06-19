@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sub
+comment0.text=\r\n\ \uC5EC\uAE30\uC5D0\ Add\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment1.params=
+comment1.target=int\ calculate()
+comment1.text=\r\n\ \uBE84\uC148\ \uBA54\uC18C\uB4DC\r\n\ \ \r\n\ @return\ \ \ \ \ \ \uBE84\uC148\ \uACB0\uACFC\uAC12\r\n
+numComments=2
