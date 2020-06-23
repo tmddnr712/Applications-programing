@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PhoneInterface
+comment0.text=\r\n\ \ \ \uC778\uD130\uD398\uC774\uC2A4\ PhoneInterface\ -\ \uC5EC\uAE30\uC5D0\ \uC778\uD130\uD398\uC774\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\ \uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment1.params=
+comment1.target=void\ sendCall()
+comment2.params=
+comment2.target=void\ receiveCall()
+comment3.params=
+comment3.target=void\ printLogo()
+numComments=4

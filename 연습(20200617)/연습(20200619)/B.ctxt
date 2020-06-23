@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=B
+comment0.text=\r\n\ \ \ \uC778\uD130\uD398\uC774\uC2A4\ B\ -\ \uC5EC\uAE30\uC5D0\ \uC778\uD130\uD398\uC774\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\ \uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment1.text=\r\n\ \ \uC608\uC81C\ \uBA54\uC18C\uB4DC\ \uD574\uB354\ -\ \uC774\ \uC8FC\uC11D\uC744\ \uC0AC\uC6A9\uC790\uC5D0\ \uB9DE\uAC8C\ \uBC14\uAFB8\uC2ED\uC2DC\uC624\r\n\ \r\n\ @param\ \ y\ \ \ \ \uBA54\uC18C\uB4DC\uC758\ \uC608\uC81C\ \uB9E4\uAC1C\uBCC0\uC218\r\n\ @return\ \ \ \ \uC608\uC81C\uBA54\uC18C\uB4DC\uC758\ \uACB0\uACFC\ \uC0B0\uCD9C\uBB3C\r\n
+numComments=2
